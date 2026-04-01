@@ -10,7 +10,7 @@ sb install saltbox-mod
 
 Alternatively:
 ```bash
-git clone https://github.com/saltyorg/saltbox_mod.git /opt/saltbox_mod
+git clone https://github.com/r3dlobst3r/saltbox_mod.git /opt/saltbox_mod
 ```
 
 ## Usage
